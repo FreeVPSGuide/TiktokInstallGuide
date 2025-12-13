@@ -1,6 +1,9 @@
 
+[链接显示的内容](#Tiktok下载)
 
-#### 国内使用Tiktok的问题
+[链接显示的内容](#不拔卡,Shizuku+Nrfr修改国家码)
+
+#### 先说说国内使用Tiktok的问题
 
 ![](https://files.mdnice.com/user/4562/5ebe39fe-11b3-4359-a7a6-26e03aff8803.png)
 
