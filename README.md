@@ -13,7 +13,7 @@
 
 不使用正版Tiktok，直接安装魔改版本的Tiktok；
 
-[一、Tiktok版本合集下载](#Tiktok)
+[一、Tiktok版本合集下载](#Tiktok下载)
 
 [二、方法1： 正版Tiktok拔卡（实测教程）](#方法1：正版Tiktok拔卡（实测教程）)
 
