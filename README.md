@@ -17,7 +17,7 @@
 
 [二、方法1： 正版Tiktok拔卡（实测教程）](#方法1：正版Tiktok拔卡（实测教程）)
 
-[三、方法2：不拔卡,Shizuku+Nrfr修改国家码](方法2：不拔卡,Shizuku+Nrfr修改国家码)
+[三、方法2：不拔卡,Shizuku+Nrfr修改国家码](#方法2：不拔卡,Shizuku+Nrfr修改国家码)
 
 [链接显示的内容](#不拔卡,Shizuku+Nrfr修改国家码)
 
