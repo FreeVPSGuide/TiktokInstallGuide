@@ -1,8 +1,4 @@
 
-[链接显示的内容](#Tiktok下载)
-
-[链接显示的内容](#不拔卡,Shizuku+Nrfr修改国家码)
-
 #### 先说说国内使用Tiktok的问题
 
 ![](https://files.mdnice.com/user/4562/5ebe39fe-11b3-4359-a7a6-26e03aff8803.png)
@@ -16,6 +12,11 @@
 不拔卡，使用Shizuku+Nrfr 修改国内SIM卡的国家码为US;
 
 不使用正版Tiktok，直接安装魔改版本的Tiktok；
+
+[一、Tiktok版本合集下载](#Tiktok)
+[二、方法1： 正版Tiktok拔卡（实测教程）](#方法1： 正版Tiktok拔卡（实测教程）)
+
+[链接显示的内容](#不拔卡,Shizuku+Nrfr修改国家码)
 
 #### Tiktok下载
 
@@ -32,7 +33,7 @@ Shizuku+Nrfr；
 
 https://pan.quark.cn/s/e7dd9a826fb1
 
-#### 正版Tiktok拔卡实测
+#### 方法1： 正版Tiktok拔卡（实测教程）
 
 ![](https://files.mdnice.com/user/4562/0106995c-48e0-4c4c-b3ec-3e6dd00bc990.png)
 
