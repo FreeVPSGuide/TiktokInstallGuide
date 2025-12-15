@@ -36,7 +36,7 @@ Shizuku+Nrfr；
 
 https://pan.quark.cn/s/e7dd9a826fb1
 
-#### 方法1正版Tiktok拔卡
+#### 方法1：正版Tiktok拔卡
 
 ![](https://files.mdnice.com/user/4562/0106995c-48e0-4c4c-b3ec-3e6dd00bc990.png)
 
