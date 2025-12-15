@@ -15,17 +15,23 @@
 
 为什么国内无法使用Tiktok？原因就这3点：
 
-1、没有必备的网络条件，这个是总所周知的事情。如果使用免费的VPN，你在Tiktok上登录账号时，会增加一定的封号概率。
+<b>1、没有必备的网络条件，这个是总所周知的事情。</b>
+
+如果使用免费的VPN，你在Tiktok上登录账号时，会增加一定的封号概率。
 
 👉👉👉 [一键注册青山VPN，免费使用24小时](https://qsqs.life/register?code=hzhSNrdy)
 
 体验⼀下浏览TiktoK 视频，没有任何卡顿现象
 
-![](Images/1000.gif)
+![Tiktok实测](Images/1000.gif)
 
-2、Android系统的Tiktok是会检测SIM卡信息的，如果是国内的手机卡会直接拒绝网络访问的。
+<b>2、Android系统的Tiktok是会检测SIM卡信息</b>
 
-3、iOS系统不允许App去读取Sim卡信息，根本不提供这样的权限。所以iOS系统安装Tiktok，只需要注册一个美区的AppleID即可，登录AppStore即可下载安装Tiktok。
+如果是国内的手机卡会直接拒绝网络访问的,会提示网络连接错误。
+
+<b>3、iOS系统不允许App去读取Sim卡信息，根本不提供这样的权限。</b>
+
+但是国区的AppleID在AppStore上也无法搜索到Tiktok，所以iOS系统安装Tiktok，只需要注册一个美区的AppleID即可，登录AppStore即可下载安装Tiktok。
 
 最重要的1点：任何手机厂商的应用商店的账号都是分地区的，例如你香港地区的谷歌账号，在Google Play肯定是搜索不到Tiktok；香港地区的苹果账号，在AppStore同样也搜索不到Tiktok。
 
