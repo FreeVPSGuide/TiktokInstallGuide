@@ -23,7 +23,9 @@
 
 体验⼀下浏览TiktoK 视频，没有任何卡顿现象
 
+<center>
 ![Tiktok实测](Images/1000.gif)
+</center>
 
 <b>2、Android系统的Tiktok是会检测SIM卡信息</b>
 
