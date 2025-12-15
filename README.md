@@ -15,13 +15,13 @@
 
 [一、Tiktok版本合集下载](#Tiktok下载)
 
-[二、方法1： 正版Tiktok拔卡（实测教程）](#方法1拔卡正版Tiktok)
+[二、方法1： 拔卡正版Tiktok（实测教程）](#方法1拔卡正版Tiktok)
 
 [三、方法2：不拔卡,Shizuku搭配Nrfr修改国家码](#方法2不拔卡Shizuku搭配Nrfr修改国家码)
 
 [链接显示的内容](#不拔卡,Shizuku+Nrfr修改国家码)
 
-[方法3：不拔卡，使用魔改版本Tiktok](#方法3：不拔卡，使用魔改版本Tiktok)
+[方法3：不拔卡，使用魔改版本Tiktok](#方法3不拔卡使用魔改版本Tiktok)
 
 # Tiktok下载
 
