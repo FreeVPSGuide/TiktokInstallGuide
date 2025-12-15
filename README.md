@@ -1,7 +1,7 @@
 
 [1、Tiktok版本合集下载](#1Tiktok版本合集下载)
 
-[2、方法1： 拔卡正版Tiktok（实测教程）](#方法1拔卡正版Tiktok)
+[2、方法1： 拔卡正版Tiktok（实测教程）](#2方法1拔卡正版Tiktok)
 
 [3、方法2：不拔卡,Shizuku搭配Nrfr修改国家码](#方法2不拔卡Shizuku搭配Nrfr修改国家码)
 
@@ -25,7 +25,7 @@
 
 不使用正版Tiktok，直接安装魔改版本的Tiktok；
 
-# 1、Tiktok版本合集下载
+# 2、Tiktok版本合集下载
 
 主要包括以下3部分重要资源：
 
