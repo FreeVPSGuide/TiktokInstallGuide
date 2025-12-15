@@ -38,11 +38,15 @@
 
 ![](https://files.mdnice.com/user/4562/5ebe39fe-11b3-4359-a7a6-26e03aff8803.png)
 
-直接拔SIM卡；
+所以通过上面的几个结论，解决Tiktok在国内正常使用的方法有3个：
 
-不拔卡，使用Shizuku+Nrfr 修改国内SIM卡的国家码为US;
+1、直接拔SIM卡；
 
-不使用正版Tiktok，直接安装魔改版本的Tiktok；
+2、不拔卡，使用Shizuku+Nrfr 修改国内SIM卡的国家码为US;
+
+3、不拔卡，不使用正版Tiktok，直接安装魔改版本的Tiktok；
+
+不要忘记：不能选择香港地区的节点！
 
 # 1、Tiktok版本合集下载
 
