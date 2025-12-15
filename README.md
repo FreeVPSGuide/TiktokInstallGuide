@@ -1,15 +1,15 @@
 
-[一、Tiktok版本合集下载](#Tiktok版本合集下载)
+[1、Tiktok版本合集下载](#1Tiktok版本合集下载)
 
-[二、方法1： 拔卡正版Tiktok（实测教程）](#方法1拔卡正版Tiktok)
+[2、方法1： 拔卡正版Tiktok（实测教程）](#方法1拔卡正版Tiktok)
 
-[三、方法2：不拔卡,Shizuku搭配Nrfr修改国家码](#方法2不拔卡Shizuku搭配Nrfr修改国家码)
+[3、方法2：不拔卡,Shizuku搭配Nrfr修改国家码](#方法2不拔卡Shizuku搭配Nrfr修改国家码)
 
-[四、Nrfr相关问答](#Nrfr相关问答)
+[4、Nrfr相关问答](#Nrfr相关问答)
 
-[五、方法3：不拔卡，使用魔改版本Tiktok](#方法3不拔卡使用魔改版本)
+[5、方法3：不拔卡，使用魔改版本Tiktok](#方法3不拔卡使用魔改版本)
 
-[六、资源汇总](#资源汇总)
+[6、资源汇总](#资源汇总)
 
 ## 先说说国内使用Tiktok的问题
 
@@ -25,7 +25,7 @@
 
 不使用正版Tiktok，直接安装魔改版本的Tiktok；
 
-# Tiktok版本合集下载
+# 1、Tiktok版本合集下载
 
 主要包括以下3部分重要资源：
 
@@ -161,14 +161,13 @@ Shizuku在这里的作用就是提供特权服务。
 
 先点击「使用配对码配对设备」，通知栏才会显示“已找到配对服务”！
 
-
 ![](https://files.mdnice.com/user/4562/fef08038-0933-4877-88ed-47c919c9917e.png)
 
 配对成功之后，Shizuku的主页显示“Shizuku正在运行”，通知栏提示“配对成功，您现在可以启动Shizuku服务了”。
 
 ![](https://files.mdnice.com/user/4562/22db398f-0a7c-4daf-9632-37e97865aaa3.png)
 
-3、给Nrfr授权
+#### 3、给Nrfr授权
 
 选中Nrfr，即可完成授权。
 
@@ -202,7 +201,7 @@ Shizuku在这里的作用就是提供特权服务。
 
 ![](https://files.mdnice.com/user/4562/98d5cd3d-450d-4819-a8dd-f9ca1bc5a922.png)
 
-#### 相关问答
+#### Nrfr相关问答
 
 
 1、Nrfr、Shizuku是否安全？
