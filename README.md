@@ -1,7 +1,7 @@
 
 [1、Tiktok版本合集下载](#1Tiktok版本合集下载)
 
-[2、方法1： 拔卡正版Tiktok（实测教程）](#2方法1拔卡正版Tiktok)
+[2、方法1： 拔卡正版Tiktok](#2方法1拔卡正版Tiktok)
 
 [3、方法2：不拔卡,Shizuku搭配Nrfr修改国家码](#3方法2不拔卡Shizuku搭配Nrfr修改国家码)
 
@@ -40,7 +40,7 @@ Shizuku+Nrfr；
 
 https://pan.quark.cn/s/e7dd9a826fb1
 
-# 2、方法1拔卡正版Tiktok拔卡
+# 2、方法1:拔卡正版Tiktok
 
 ![](https://files.mdnice.com/user/4562/0106995c-48e0-4c4c-b3ec-3e6dd00bc990.png)
 
