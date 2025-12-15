@@ -40,7 +40,7 @@ Shizuku+Nrfr；
 
 https://pan.quark.cn/s/e7dd9a826fb1
 
-# 2、方法1：拔卡正版Tiktok拔卡
+# 2、方法1拔卡正版Tiktok拔卡
 
 ![](https://files.mdnice.com/user/4562/0106995c-48e0-4c4c-b3ec-3e6dd00bc990.png)
 
@@ -276,7 +276,7 @@ Nrfr 仅改变系统对 SIM 卡信息的读取方式，通过调用 Android 系�
 
 请检测TiZi的节点，更换一下节点试试，注意不要切换到香港地区，香港地区也无法直接下载运行Tiktok。
 
-# 5、方法3：不拔卡，使用魔改版本Tiktok
+# 5、方法3：不拔卡使用魔改版本Tiktok
 
 
 实测机型：红米K70
