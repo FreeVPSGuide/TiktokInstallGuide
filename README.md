@@ -90,7 +90,7 @@ https://pan.quark.cn/s/e7dd9a826fb1
 ![](https://files.mdnice.com/user/4562/adc11ada-86a5-436d-9222-d33d43666c67.jpg)
 
 
-# 3方法2不拔卡Shizuku搭配Nrfr修改国家码
+# 3、方法2不拔卡Shizuku搭配Nrfr修改国家码
 
 谷歌商店下载的Tiktok如果检测到国内的手机卡，会直接显示网络错误的，如图所示：
 
@@ -201,7 +201,7 @@ Shizuku在这里的作用就是提供特权服务。
 
 ![](https://files.mdnice.com/user/4562/98d5cd3d-450d-4819-a8dd-f9ca1bc5a922.png)
 
-#### 4、Nrfr相关问答
+# 4、Nrfr相关问答
 
 
 1、Nrfr、Shizuku是否安全？
@@ -276,7 +276,7 @@ Nrfr 仅改变系统对 SIM 卡信息的读取方式，通过调用 Android 系�
 
 请检测TiZi的节点，更换一下节点试试，注意不要切换到香港地区，香港地区也无法直接下载运行Tiktok。
 
-# 5方法3：不拔卡，使用魔改版本Tiktok
+# 5、方法3：不拔卡，使用魔改版本Tiktok
 
 
 实测机型：红米K70
@@ -342,9 +342,7 @@ Tiktok版本：持续更新版本（Telegram频道中持续更新的，目前最
 
 ![](https://files.mdnice.com/user/4562/45641e0c-f364-4dde-9497-ae82e9049ca0.jpg)
 
-
-
-#### 6、资源汇总
+# 6、资源汇总
 
 1、Shizuku
 
