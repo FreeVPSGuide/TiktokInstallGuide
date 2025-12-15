@@ -1,5 +1,17 @@
 
-#### 先说说国内使用Tiktok的问题
+[一、Tiktok版本合集下载](#Tiktok版本合集下载)
+
+[二、方法1： 拔卡正版Tiktok（实测教程）](#方法1拔卡正版Tiktok)
+
+[三、方法2：不拔卡,Shizuku搭配Nrfr修改国家码](#方法2不拔卡Shizuku搭配Nrfr修改国家码)
+
+[四、Nrfr相关问答](#Nrfr相关问答)
+
+[五、方法3：不拔卡，使用魔改版本Tiktok](#方法3不拔卡使用魔改版本)
+
+[六、资源汇总](#资源汇总)
+
+## 先说说国内使用Tiktok的问题
 
 ![](https://files.mdnice.com/user/4562/5ebe39fe-11b3-4359-a7a6-26e03aff8803.png)
 
@@ -13,17 +25,7 @@
 
 不使用正版Tiktok，直接安装魔改版本的Tiktok；
 
-[一、Tiktok版本合集下载](#Tiktok下载)
-
-[二、方法1： 拔卡正版Tiktok（实测教程）](#方法1拔卡正版Tiktok)
-
-[三、方法2：不拔卡,Shizuku搭配Nrfr修改国家码](#方法2不拔卡Shizuku搭配Nrfr修改国家码)
-
-[链接显示的内容](#不拔卡,Shizuku+Nrfr修改国家码)
-
-[方法3：不拔卡，使用魔改版本Tiktok](#方法3不拔卡使用魔改版本Tiktok)
-
-# Tiktok下载
+# Tiktok版本合集下载
 
 主要包括以下3部分重要资源：
 
