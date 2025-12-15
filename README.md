@@ -1,5 +1,17 @@
 
-#### 先说说国内使用Tiktok的问题
+[1、Tiktok版本合集下载](#1Tiktok版本合集下载)
+
+[2、方法1： 拔卡正版Tiktok](#2方法1拔卡正版Tiktok)
+
+[3、方法2：不拔卡,Shizuku搭配Nrfr修改国家码](#3方法2不拔卡Shizuku搭配Nrfr修改国家码)
+
+[4、Nrfr相关问答](#4Nrfr相关问答)
+
+[5、方法3：不拔卡，使用魔改版本Tiktok](#5方法3不拔卡使用魔改版Tiktok)
+
+[6、资源汇总](#6资源汇总)
+
+## 先说说国内使用Tiktok的问题
 
 ![](https://files.mdnice.com/user/4562/5ebe39fe-11b3-4359-a7a6-26e03aff8803.png)
 
@@ -13,15 +25,7 @@
 
 不使用正版Tiktok，直接安装魔改版本的Tiktok；
 
-[一、Tiktok版本合集下载](#Tiktok下载)
-
-[二、方法1： 正版Tiktok拔卡（实测教程）](#方法1正版Tiktok拔卡)
-
-[三、方法2：不拔卡,Shizuku+Nrfr修改国家码](#方法2：不拔卡,Shizuku+Nrfr修改国家码)
-
-[链接显示的内容](#不拔卡,Shizuku+Nrfr修改国家码)
-
-#### Tiktok下载
+# 1、Tiktok版本合集下载
 
 主要包括以下3部分重要资源：
 
@@ -36,7 +40,7 @@ Shizuku+Nrfr；
 
 https://pan.quark.cn/s/e7dd9a826fb1
 
-#### 方法1正版Tiktok拔卡
+# 2、方法1:拔卡正版Tiktok
 
 ![](https://files.mdnice.com/user/4562/0106995c-48e0-4c4c-b3ec-3e6dd00bc990.png)
 
@@ -86,7 +90,7 @@ https://pan.quark.cn/s/e7dd9a826fb1
 ![](https://files.mdnice.com/user/4562/adc11ada-86a5-436d-9222-d33d43666c67.jpg)
 
 
-#### 方法2：不拔卡,Shizuku+Nrfr修改国家码
+# 3、方法2不拔卡Shizuku搭配Nrfr修改国家码
 
 谷歌商店下载的Tiktok如果检测到国内的手机卡，会直接显示网络错误的，如图所示：
 
@@ -157,14 +161,13 @@ Shizuku在这里的作用就是提供特权服务。
 
 先点击「使用配对码配对设备」，通知栏才会显示“已找到配对服务”！
 
-
 ![](https://files.mdnice.com/user/4562/fef08038-0933-4877-88ed-47c919c9917e.png)
 
 配对成功之后，Shizuku的主页显示“Shizuku正在运行”，通知栏提示“配对成功，您现在可以启动Shizuku服务了”。
 
 ![](https://files.mdnice.com/user/4562/22db398f-0a7c-4daf-9632-37e97865aaa3.png)
 
-3、给Nrfr授权
+#### 3、给Nrfr授权
 
 选中Nrfr，即可完成授权。
 
@@ -198,7 +201,7 @@ Shizuku在这里的作用就是提供特权服务。
 
 ![](https://files.mdnice.com/user/4562/98d5cd3d-450d-4819-a8dd-f9ca1bc5a922.png)
 
-#### 相关问答
+# 4、Nrfr相关问答
 
 
 1、Nrfr、Shizuku是否安全？
@@ -273,8 +276,7 @@ Nrfr 仅改变系统对 SIM 卡信息的读取方式，通过调用 Android 系�
 
 请检测TiZi的节点，更换一下节点试试，注意不要切换到香港地区，香港地区也无法直接下载运行Tiktok。
 
-#### 魔改版本Tiktok
-
+# 5、方法3：不拔卡使用魔改版Tiktok
 
 实测机型：红米K70
 
@@ -339,9 +341,7 @@ Tiktok版本：持续更新版本（Telegram频道中持续更新的，目前最
 
 ![](https://files.mdnice.com/user/4562/45641e0c-f364-4dde-9497-ae82e9049ca0.jpg)
 
-
-
-#### 资源汇总
+# 6、资源汇总
 
 1、Shizuku
 
@@ -393,10 +393,7 @@ com.zhiliaoapp.musically
 
 必须重点提醒，用上面的2个apk下载网站直接下载谷歌商店的Tiktok，是需要登录谷歌账号进行合并apk才能使用的。
 
-
 ![](https://files.mdnice.com/user/4562/543f6de5-2270-4e13-b456-2089f80fe504.png)
-
-
 
 6、谷歌商店安装
 
