@@ -201,7 +201,7 @@ Shizuku在这里的作用就是提供特权服务。
 
 ![](https://files.mdnice.com/user/4562/98d5cd3d-450d-4819-a8dd-f9ca1bc5a922.png)
 
-#### Nrfr相关问答
+#### 4、Nrfr相关问答
 
 
 1、Nrfr、Shizuku是否安全？
@@ -276,7 +276,7 @@ Nrfr 仅改变系统对 SIM 卡信息的读取方式，通过调用 Android 系�
 
 请检测TiZi的节点，更换一下节点试试，注意不要切换到香港地区，香港地区也无法直接下载运行Tiktok。
 
-# 方法3：不拔卡，使用魔改版本Tiktok
+# 5方法3：不拔卡，使用魔改版本Tiktok
 
 
 实测机型：红米K70
@@ -344,7 +344,7 @@ Tiktok版本：持续更新版本（Telegram频道中持续更新的，目前最
 
 
 
-#### 资源汇总
+#### 6、资源汇总
 
 1、Shizuku
 
@@ -396,10 +396,7 @@ com.zhiliaoapp.musically
 
 必须重点提醒，用上面的2个apk下载网站直接下载谷歌商店的Tiktok，是需要登录谷歌账号进行合并apk才能使用的。
 
-
 ![](https://files.mdnice.com/user/4562/543f6de5-2270-4e13-b456-2089f80fe504.png)
-
-
 
 6、谷歌商店安装
 
