@@ -1,4 +1,6 @@
 
+这篇教程是教大家如何在国内下载安装运行Tiktok的实测教程，必须立个Flag：100%实测有效。
+
 [1、Tiktok版本合集下载](#1Tiktok版本合集下载)
 
 [2、方法1： 拔卡正版Tiktok](#2方法1拔卡正版Tiktok)
@@ -13,17 +15,40 @@
 
 ## 先说说国内使用Tiktok的问题
 
+为什么国内无法使用Tiktok？原因就这3点：
+
+<b>1、没有必备的网络条件，这个是总所周知的事情。</b>
+
+如果使用免费的VPN，你在Tiktok上登录账号时，会增加一定的封号概率。
+
+👉👉👉 [一键注册青山VPN，免费使用24小时](https://qsqs.life/register?code=hzhSNrdy)
+
+体验⼀下浏览TiktoK 视频，没有任何卡顿现象
+
+![Tiktok实测](Images/1000.gif)
+
+<b>2、Android系统的Tiktok是会检测SIM卡信息</b>
+
+如果是国内的手机卡会直接拒绝网络访问的,会提示网络连接错误。
+
+<b>3、iOS系统不允许App去读取Sim卡信息，根本不提供这样的权限。</b>
+
+但是国区的AppleID在AppStore上也无法搜索到Tiktok，所以iOS系统安装Tiktok，只需要注册一个美区的AppleID即可，登录AppStore即可下载安装Tiktok。
+
+最重要的1点：任何手机厂商的应用商店的账号都是分地区的，例如你香港地区的谷歌账号，在Google Play肯定是搜索不到Tiktok；香港地区的苹果账号，在AppStore同样也搜索不到Tiktok。
+
+
 ![](https://files.mdnice.com/user/4562/5ebe39fe-11b3-4359-a7a6-26e03aff8803.png)
 
-1、iOS系统不允许App去读取Sim卡信息，根本不提供这样的权限，所以iOS系统安装Tiktok，只需要注册一个美区的AppleID即可，登录AppStore即可下载安装Tiktok。
+所以通过上面的几个结论，解决Tiktok在国内正常使用的方法有3个：
 
-2、Android系统的Tiktok是会检测SIM卡信息的，如果是国内的手机卡会直接拒绝网络访问的，所以使用Tiktok的方法有3种：
+1、直接拔SIM卡；
 
-直接拔SIM卡；
+2、不拔卡，使用Shizuku+Nrfr 修改国内SIM卡的国家码为US;
 
-不拔卡，使用Shizuku+Nrfr 修改国内SIM卡的国家码为US;
+3、不拔卡，不使用正版Tiktok，直接安装魔改版本的Tiktok；
 
-不使用正版Tiktok，直接安装魔改版本的Tiktok；
+不要忘记：不能选择香港地区的节点！
 
 # 1、Tiktok版本合集下载
 
