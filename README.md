@@ -21,7 +21,7 @@
 
 [链接显示的内容](#不拔卡,Shizuku+Nrfr修改国家码)
 
-#### Tiktok下载
+# Tiktok下载
 
 主要包括以下3部分重要资源：
 
@@ -36,7 +36,7 @@ Shizuku+Nrfr；
 
 https://pan.quark.cn/s/e7dd9a826fb1
 
-#### 方法1：正版Tiktok拔卡
+# 方法1：正版Tiktok拔卡
 
 ![](https://files.mdnice.com/user/4562/0106995c-48e0-4c4c-b3ec-3e6dd00bc990.png)
 
@@ -86,7 +86,7 @@ https://pan.quark.cn/s/e7dd9a826fb1
 ![](https://files.mdnice.com/user/4562/adc11ada-86a5-436d-9222-d33d43666c67.jpg)
 
 
-#### 方法2：不拔卡,Shizuku+Nrfr修改国家码
+# 方法2：不拔卡,Shizuku+Nrfr修改国家码
 
 谷歌商店下载的Tiktok如果检测到国内的手机卡，会直接显示网络错误的，如图所示：
 
