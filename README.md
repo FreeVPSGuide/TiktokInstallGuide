@@ -21,7 +21,7 @@
 
 如果使用免费的VPN，你在Tiktok上登录账号时，会增加一定的封号概率。
 
-👉👉👉 [一键注册MIKI Cloud，免费使用24小时](https://miki.la/#/register?code=9qeqAeH8)
+👉👉👉 [一键注册MIKI Cloud，月付低至18元/150G](https://miki.la/#/register?code=9qeqAeH8)
 
 体验⼀下浏览TiktoK 视频，没有任何卡顿现象
 
